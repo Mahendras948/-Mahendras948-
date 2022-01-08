@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi, Great to see you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Mahendra, and I have done PGDiploma in Biological Data Science from [SCIS, Jawaharlal Nehru University, New Delhi](https://jnu.ac.in/scis). Apart from that I have a master in Bioinformatics from [UIET, CSJM University,Kanpur](http://csjmu.ac.in/uiet-kanpur/departments/computer-science-and-engineering/). and have a bachelor in Biotechnology from [AKS University, Satna](https://www.aksuniversity.ac.in/index.php/academics/life-sciences-technology).and My ultimate goal, is to pursue including areas of research interest in Bioinformatics; Omics data science, metabolomics engineering, Computational drug discovery, RNAi biology and Machine learning; AI and NLP.
+I am Mahendra, and I have done PGDiploma in Biological Data Science from [SCIS, Jawaharlal Nehru University, New Delhi](https://jnu.ac.in/scis). Apart from that I have a master in Bioinformatics from [UIET, CSJM University,Kanpur](http://csjmu.ac.in/uiet-kanpur/departments/computer-science-and-engineering/). and have a bachelor in Biotechnology from [AKS University, Satna](https://www.aksuniversity.ac.in/index.php/academics/life-sciences-technology).and My ultimate goal, is to pursue including areas of research interest in Bioinformatics; Omics data science, metabolomics engineering, Computational drug discovery, RNAi biology and Data Science: AI, NLP and Machine learning to solve the biological problems.
  
  
 ### Key area of research interest: I have developed a keen interest to apply the knowledge I would gain in
