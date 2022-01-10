@@ -5,16 +5,16 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi, Great to see you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Mahendra, and I have done PGDiploma in Biological Data Science from [SCIS, Jawaharlal Nehru University, New Delhi](https://jnu.ac.in/scis). Apart from that I have a master in Bioinformatics from [UIET, CSJM University,Kanpur](http://csjmu.ac.in/uiet-kanpur/departments/computer-science-and-engineering/). and have a bachelor in Biotechnology from [AKS University, Satna](https://www.aksuniversity.ac.in/index.php/academics/life-sciences-technology).and My ultimate goal, is to pursue including areas of research interest in Bioinformatics; Omics data science, metabolomics engineering, Computational drug discovery, RNAi biology and Data Science: AI, NLP and Machine learning to solve the biological problems.
+I am Mahendra, currently pursuing D.Phil in Biological Data Science from [SCIS, Jawaharlal Nehru University, New Delhi](https://jnu.ac.in/scis), Apart from that, I have a master in Bioinformatics from [UIET, CSJM University , Kanpur](http://csjmu.ac.in/uiet-kanpur/departments/computer-science-and-engineering/) and have a bachelor in Biotechnology from [AKS University, Satna](https://www.aksuniversity.ac.in/index.php/academics/life-sciences-technology) And my ultimate goal, is to pursue including areas of research interest in Bioinformatics; Omics data science, metabolomics engineering, Computational drug discovery, RNAi biology and Data Science: AI, NLP and Machine learning to solve the biological problems.
  
  
 ### Key area of research interest: I have developed a keen interest to apply the knowledge I would gain in
 - Omics data science: Genomics, Transcriptomics, Proteomics and Metabolomics
-- Structural Biology: drug discovery
+- Structural Biology: drug discovery and image analysis
 - RNAi Biology: miRNA, lncRNA and eRNA
 - Data Science: ML, AI and NLP
+- Healthcare: mobile health (mhealth) and Personalized medicine
 
- 
 </p>
 <hr />
 <h2 align="center">Social Media</h2> 
@@ -55,13 +55,14 @@ Feel free to connect with me here:
 <hr />
 
 ## Learning Platform:
-[NPTEL](https://nptel.ac.in/). | 
-[Future Learn](https://www.futurelearn.com/). | [Metagenomics](https://sites.google.com/site/wiki4metagenomics/pdf?authuser=0).
+[NPTEL](https://nptel.ac.in/) | 
+[Future Learn](https://www.futurelearn.com/) | [Metagenomics](https://sites.google.com/site/wiki4metagenomics/pdf?authuser=0) | 
+[Brilliant.org](https://brilliant.org/home/) | [MIT OpenCourseWare](https://www.youtube.com/c/mitocw) | [Stanfordonline](https://www.youtube.com/user/stanfordonline)
 </p>
 <hr />
 
 ### References:  
-Prof. Rita Sharma, Professor, and Thesis Supervisor, SCIS-JNU New Delhi, India.
+Prof. Rita Sharma, Professor, SCIS-JNU New Delhi, India.
 Email: rita.genomics@gmail.com   Tel:+919958312717
 
 Prof. Shandar Ahmad, Professor, SCIS-JNU New Delhi, India. 
